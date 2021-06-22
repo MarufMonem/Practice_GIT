@@ -1,0 +1,5 @@
+if(code == true){
+return true;
+}else{
+false;
+}
